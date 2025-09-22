@@ -1,8 +1,4 @@
-<!-- Perfil de Jorgito091 -->
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/134858020?v=4" width="120" style="border-radius: 50%;"/>
-</p>
 
 <h1 align="center">¡Hola, soy Jorgito091! 👋</h1>
 <h3 align="center"><em>El psykongroo</em></h3>
@@ -38,12 +34,6 @@
 - [InterpretePython](https://github.com/Jorgito091/InterpretePython)  
 - [Novela](https://github.com/Jorgito091/Novela)  
 - [PeadZ](https://github.com/Jorgito091/PeadZ)  
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jorgito091&show_icons=true&theme=radical" />
-</p>
 
 ---
 
