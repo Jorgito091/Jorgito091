@@ -1,57 +1,83 @@
-# ¡Hola! Soy Jorge Eduardo Torres Ochoa 👋
-   
-Productor y desarrollador de software enfocado en la construcción de sistemas robustos, eficientes y de alto rendimiento. Actualmente me encuentro cursando el 6to semestre de la Ingeniería de Software en la UAdeO. Me apasiona resolver problemas complejos, optimizar bases de datos y diseñar arquitecturas escalables.
+# Hi there, I'm Jorge Eduardo! 👋
+
+### 👨‍💻 Software Engineering Student & Full-Stack Developer
+
+I'm a Software Engineering student based in Culiacán, Mexico, passionate about building scalable microservices, high-performance APIs, and robust full-stack applications. My focus is to create and develop secure and optimized systems  and apps while i learn .
+
+Currently balancing my studies while working on enterprise-grade academic platforms and productivity tools.
+
+-  I’m currently building advanced backend microservices, real-time sync systems, and optimized relational databases , also aplpying into internships.
 
 ---
 
-## 🚀 Sobre Mí
+### 🛠️ Tech Stack
 
-- 🎓 **Estudiante de Ingeniería de Software** en la Universidad Autónoma de Occidente (Graduación prevista: 2027).
-- 💼 **Software Engineer** actual en *EDUMANAGER*, desarrollando soluciones académicas integrales y clientes móviles nativos.
-- 🛠️ **Full-Stack Developer** con experiencia en herramientas de productividad empresarial y arquitecturas de microservicios.
-- 🗣️ **Idiomas:** Español (Nativo) e Inglés Avanzado (B2) — listo para colaborar en entornos globales de alto impacto.
+**Languages**
+<p align="left">
+  <img src="https://img.shields.io/badge/C++
+-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+</p>
 
----
+**Frameworks & Backend**
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/SupaBase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+</p>
 
-## 🛠️ Tecnologías y Habilidades
-
-### 💻 Lenguajes de Programación
-`C++` | `Python` | `Java` | `TypeScript` | `JavaScript` | `SQL` | `Swift`
-
-### ⚙️ Frameworks y Herramientas backend / Frontend
-* **Backend:** FastAPI, Spring Boot, Node.js, Supabase, REST APIs
-* **Frontend & Mobile:** React, Swift (iOS Nativo)
-* **Bases de Datos & Devops:** PostgreSQL, Docker, Git
-
-### 🧠 Core Competencies
-* Estructuras de Datos y Algoritmos
-* Seguridad e Implementación de Autenticación Avanzada (JWT)
-* Optimización de consultas SQL complejas
-* Metodologías Ágiles (Scrum)
-
----
-
-## 📁 Proyectos Destacados
-
-### 🏫 **EDUMANAGER / LYRA**
-*Sistema de gestión educativa y académica integral.*
-- Diseñado bajo una arquitectura de microservicios con backend en **Python** y **Supabase**.
-- Desarrollo de un cliente móvil nativo en **Swift** con integración de APIs en tiempo real para el seguimiento de horarios y calificaciones.
-- Optimización de consultas SQL complejas para reducir tiempos de respuesta en reportes administrativos.
-
-### 💼 **EMASTER**
-*Herramienta de productividad orientada a flujos de trabajo empresariales.*
-- Construcción de servicios backend escalables utilizando **Java (Spring Boot)** y **FastAPI**.
-- Implementación de seguridad avanzada mediante **JWT** y optimización del frontend migrado a **React + TypeScript**.
-
-### ⚡ **PEADZ & PADZ**
-*Aplicaciones de productividad, organización personal y colaboración en tiempo real.*
-- Implementación de módulos de seguridad y control de acceso basados en roles (RBAC).
-- Contenedorización completa de entornos utilizando **Docker** para asegurar la consistencia en el despliegue.
+**Tools & Infrastructure**
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
+</p>
 
 ---
 
-## 📬 Conéctate conmigo
+### 🚀 Featured Projects
 
-- **GitHub:** [github.com/Jorgito091](https://github.com/Jorgito091)
-- **📍 Ubicación:** Culiacán, Sinaloa, México
+<details open>
+  <summary style="cursor: pointer;"><b>💻 Repositorios Destacados</b></summary>
+  <br>
+  <p align="center">
+    <a href="https://github.com/Jorgito091/ProyectoAPIMovilEscolar">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Jorgito091&repo=ProyectoAPIMovilEscolar&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=1F6FEB&show_icons=true" alt="EduManager Repo"/>
+    </a>
+    <a href="https://github.com/Jorgito091/Padz">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Jorgito091&repo=Padz&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=1F6FEB&show_icons=true" alt="Padz Repo"/>
+    </a>
+  </p>
+  
+  <p align="center">
+    <a href="https://github.com/Jorgito091?tab=repositories&sort=stargazers">
+      <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Ver%20todos%20mis%20repositorios-1F6FEB?style=for-the-badge&logoColor=white&logo=repo"/>
+    </a>
+  </p>
+</details>
+
+---
+
+### 📫 Connect with me
+
+<p align="left">
+  <a href="mailto:jorge.torres.5mn@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <h3>GitHub Stats</h3>
+  <a href="https://github.com/Jorgito091">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Jorgito091&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
