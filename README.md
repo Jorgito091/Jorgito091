@@ -73,10 +73,3 @@ I'm a Software Engineering student from Culiacán, Mexico. I specialize in build
 </p>
 
 ---
-
-<div align="center">
-  <h3>GitHub Stats</h3>
-  <a href="https://github.com/Jorgito091">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Jorgito091&theme=dark&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
