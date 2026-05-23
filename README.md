@@ -1,13 +1,12 @@
-# Hi there, I'm Jorge Eduardo! 👋
+# Hello, I'm Jorge Eduardo! 
 
-### 👨‍💻 Software Engineering Student & Full-Stack Developer
+### Software Engineering Student & Full-Stack Developer
 
-I'm a Software Engineering student based in Culiacán, Mexico, passionate about building scalable microservices, high-performance APIs, and robust full-stack applications. My focus is to create and develop secure and optimized systems  and apps while i learn .
+I'm a Software Engineering student from Culiacán, Mexico. I specialize in building scalable microservices, high-performance APIs, and secure, optimized full-stack applications. 
 
-Currently balancing my studies while working on enterprise-grade academic platforms and productivity tools.
-
--  I’m currently building advanced backend microservices, real-time sync systems, and optimized relational databases , also aplpying into internships.
-
+- **Currently working on:** Enterprise-grade academic platforms, productivity tools, and real-time sync systems.
+- **Focus:** Backend architectures and relational database optimization.
+- **Looking for:** Software Engineer Projects to look for .
 ---
 
 ### 🛠️ Tech Stack
