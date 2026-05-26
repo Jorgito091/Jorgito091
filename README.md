@@ -6,7 +6,7 @@ I'm a Software Engineering student from Culiacán, Mexico. I specialize in build
 
 - **Currently working on:** Enterprise-grade academic platforms, productivity tools, and real-time sync systems.
 - **Focus:** Backend architectures and relational database optimization.
-- **Looking for:** Software Engineer Projects to look for .
+- **Looking for:** Software Engineer Projects to look forward  .
 ---
 
 ### 🛠️ Tech Stack
