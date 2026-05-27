@@ -43,31 +43,22 @@ I'm a Software Engineering student from Culiacán, Mexico. I specialize in build
 
 ### 🚀 Featured Projects 
 
----
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/Jorgito091/ProyectoAPIMovilEscolar">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jorgito091&repo=ProyectoAPIMovilEscolar&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=21262d&show_icons=true" alt="EduManager Repo" width="100%"/>
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/Jorgito091/Padz">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jorgito091&repo=Padz&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=21262d&show_icons=true" alt="Padz Repo" width="100%"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-
-  <br>
-
-  <a href="https://github.com/Jorgito091?tab=repositories&sort=stargazers">
-    <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/Ver%20todos%20mis%20repositorios-1F6FEB?style=for-the-badge&logo=github&logoColor=white"/>
+<p align="center">
+  <a href="https://github.com/Jorgito091/ProyectoAPIMovilEscolar">
+    <img src="https://img.shields.io/badge/Proyecto_API_Móvil_Escolar-0D1117?style=for-the-badge&logo=nestjs&logoColor=58A6FF&labelColor=21262d" alt="API Escolar">
   </a>
-</div>
----
+  &nbsp;
+  <a href="https://github.com/Jorgito091/Padz">
+    <img src="https://img.shields.io/badge/Padz_App-0D1117?style=for-the-badge&logo=typescript&logoColor=58A6FF&labelColor=21262d" alt="Padz">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Jorgito091?tab=repositories&sort=stargazers">
+    <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/Explorar_todo-1F6FEB?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ### 📫 Connect with me
 
