@@ -41,27 +41,32 @@ I'm a Software Engineering student from Culiacán, Mexico. I specialize in build
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects 
 
-<details open>
-  <summary style="cursor: pointer;"><b>💻 Repositorios Destacados</b></summary>
+---
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/Jorgito091/ProyectoAPIMovilEscolar">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jorgito091&repo=ProyectoAPIMovilEscolar&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=21262d&show_icons=true" alt="EduManager Repo" width="100%"/>
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/Jorgito091/Padz">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jorgito091&repo=Padz&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=21262d&show_icons=true" alt="Padz Repo" width="100%"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+
   <br>
-  <p align="center">
-    <a href="https://github.com/Jorgito091/ProyectoAPIMovilEscolar">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Jorgito091&repo=ProyectoAPIMovilEscolar&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=1F6FEB&show_icons=true" alt="EduManager Repo"/>
-    </a>
-    <a href="https://github.com/Jorgito091/Padz">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Jorgito091&repo=Padz&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=1F6FEB&show_icons=true" alt="Padz Repo"/>
-    </a>
-  </p>
-  
-  <p align="center">
-    <a href="https://github.com/Jorgito091?tab=repositories&sort=stargazers">
-      <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Ver%20todos%20mis%20repositorios-1F6FEB?style=for-the-badge&logoColor=white&logo=repo"/>
-    </a>
-  </p>
-</details>
 
+  <a href="https://github.com/Jorgito091?tab=repositories&sort=stargazers">
+    <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/Ver%20todos%20mis%20repositorios-1F6FEB?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
 ---
 
 ### 📫 Connect with me
